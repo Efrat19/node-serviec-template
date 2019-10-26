@@ -1,5 +1,5 @@
 {
-  "name": "express-es6-boilerplate",
+  "name": "node-service-template",
   "version": "1.0.0",
   "description": "Node Application based on express js with es6 and integrated with mongodb",
   "main": "dist/app.js",
@@ -10,8 +10,8 @@
     "serve": "node ./dist/app.js",
     "dev": "nodemon -w src --exec \"npm run build:dev && npm run serve\""
   },
-  "author": "MohammadHossein Mardani",
-  "url": "https://github.com/mhmardani/express-es6-boilerplate",
+  "author": "Efrat Levitan",
+  "url": "https://github.com/Efrat19/node-service-template",
   "license": "ISC",
   "dependencies": {
     "@babel/runtime": "^7.4.5",
